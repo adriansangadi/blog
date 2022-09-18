@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="cara-mengatasi-laporan-crystal-report.html"}
 if(x=="2"){xxx="cara-memunculkan-crystal-report-control.html"}
 if(x=="3"){xxx="membuat-laporan-harian-crystal-report.html"}
-if(x=="4"){xxx="membuat-laporan-mingguan-crystal-report.html"}a_to_ve[i].href="https://safekode.blogspot.com/2017/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="membuat-laporan-mingguan-crystal-report.html"}a_to_ve[i].href="https://safekode.blogspot.com/2022/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
